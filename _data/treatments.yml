@@ -1,0 +1,23 @@
+- icon: icon-user-md
+  title: Bolts
+  description: All sizes of Bolts
+
+- icon: icon-diamond
+  title: Nuts
+  description: All sizes of Nuts
+
+- icon: icon-flask
+  title: Washers
+  description: LAll kinds of Washers
+
+- icon: icon-globe
+  title: Screws
+  description: All types of screws
+
+- icon: icon-ambulance
+  title: Others
+  description: Tools
+
+- icon: icon-bed
+  title: Others
+  description: Other fastners
