@@ -12,7 +12,7 @@ hero:
     hero_description: Our company is a renowned trader, dealer and supplier of products such as Gas Welding Rod, Spring Washer, Drill Bit, Drilling Machine and many more. We offer our products at low prices in the market.
 
 # Contact form
-api_token: # Enter API token here
+api_token: 38fc1c0c96c9797187f1279b1af2d88e
 
 # Contact info
 contact:
